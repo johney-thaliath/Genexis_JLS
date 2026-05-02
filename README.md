@@ -38,7 +38,7 @@ Build a scalable modular toolkit for education use.
 - Linux CLI Utilities (`grep`, `sed`, `cut`, `wc`, etc.)
 
 ## TO install 
-git clone https://github.com/YOUR_USERNAME/Genexis_JLS.git
+git clone https://github.com/johney-thaliath/Genexis_JLS.git
 cd Genexis_JLS
 chmod +x install.sh
 ./install.sh
